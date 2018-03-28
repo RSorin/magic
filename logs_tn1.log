@@ -4,7 +4,7 @@ Attaching to tema1retele_tn1_1
 [36mtn1_1  |[0m     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
 [36mtn1_1  |[0m     inet 127.0.0.1/8 scope host lo
 [36mtn1_1  |[0m        valid_lft forever preferred_lft forever
-[36mtn1_1  |[0m 115: eth0@if116: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default 
+[36mtn1_1  |[0m 22: eth0@if23: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default 
 [36mtn1_1  |[0m     link/ether 02:42:a6:e7:26:2e brd ff:ff:ff:ff:ff:ff link-netnsid 0
 [36mtn1_1  |[0m     inet 166.231.38.46/30 brd 166.231.38.47 scope global eth0
 [36mtn1_1  |[0m        valid_lft forever preferred_lft forever
